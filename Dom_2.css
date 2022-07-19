@@ -1,0 +1,436 @@
+/*Nav bar start*/
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #4B6257;
+
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: -10px 0;
+    margin: 30px;
+}
+#shop{
+   font-size: 25px;
+   text-decoration: none;
+   color: #CCCCCC;
+}
+#cart-icon{
+    font-size: 1.9rem;
+    color: #CCCCCC;
+    cursor: pointer;
+ }
+/*Nav bar end*/
+
+/*Cart title start*/
+ section{
+    padding: 4rem 0 3rem;
+ }
+ .section_title{
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    margin-right: 20px;
+    margin-top: 50px;
+ }
+ /*Cart title end*/
+
+ /*Cart 1 start*/
+ .cart_1{
+    display:flex;
+    margin-left: 80px;
+ }
+ .rings{
+    width: 400px;
+ }
+ .product-name{
+    margin-left: 20px;
+    margin-top: -5px;
+ }
+ .product-price{
+    font-size: 30px;
+    color: #A4363B;
+    margin-left: 20px;
+    margin-top: 40px;
+ }
+ .dollars{
+    font-size: 30px;
+    color: #A4363B;
+    margin-left: -130px;
+    margin-top: 40px;
+ }
+ #heart{
+    color: #A4363B;
+    margin-left: 200px;
+    font-size: 40px;
+    height: 30px;
+ }
+ #btn_pm{
+    background: transparent;
+    height: 30px;
+    font-size: 20px;
+    border: none;
+   
+ }
+ #btn_pmi{
+    background: transparent;
+    height: 30px;
+    font-size: 20px;
+    width: 20px;
+    border: none;
+ }
+ .quantity_buttons{
+    margin-left: -313px;
+    margin-top: 100px;
+ }
+ .total{
+    background: transparent;
+    width: 30px;
+    font-size: 20px;
+    border: none;
+ }
+ .total_h{
+    font-size: 20px;
+    margin-top: 160px;
+    margin-left: -330px;
+ }
+ #remove{
+    margin-top: 380px;
+    font-size: 30px;
+    height: 50px;
+    width: 330px;
+    margin-left: -70px;
+    border-radius: 20px;
+    background-color: #4B6257;
+    color: white;
+ }
+ .cart_2{
+    display:flex;
+    margin-left: 80px;
+    margin-top: 130px;
+ }
+    .rings_2{
+        width: 400px;
+        height: 420px;
+     }
+
+ /*Cart 1 end*/
+
+ /*Cart 2 start*/ 
+ .cart_1{
+    display:flex;
+    margin-left: 80px;
+ }
+ 
+ .product-name_2{
+    margin-left: 20px;
+    margin-top: -5px;
+ }
+ .product-price_2{
+    font-size: 30px;
+    color: #A4363B;
+    margin-left: 10px;
+    margin-top: 40px;
+ }
+ .dollars_2{
+    font-size: 30px;
+    color: #A4363B;
+    margin-left: -165px;
+    margin-top: 40px;
+ }
+ #heart_2{
+    color: #A4363B;
+    margin-left: 200px;
+    font-size: 40px;
+    height: 30px;
+    margin-top: -5px;
+ }
+ #btn_pm{
+    background: transparent;
+    height: 30px;
+    font-size: 20px;
+    border: none;
+   
+ }
+ #btn_pmi{
+    background: transparent;
+    height: 30px;
+    font-size: 20px;
+    width: 20px;
+    border: none;
+ }
+ .quantity_buttons_2{
+    margin-left: -300px;
+    margin-top: 100px;
+ }
+ .total{
+    background: transparent;
+    width: 30px;
+    font-size: 20px;
+    border: none;
+ }
+ .total_h_2{
+    font-size: 20px;
+    margin-top: 160px;
+    margin-left: -320px;
+ }
+ #remove_2{
+    margin-top: 370px;
+    font-size: 30px;
+    height: 50px;
+    width: 330px;
+    margin-left: -75px;
+    border-radius: 20px;
+    background-color: #4B6257;
+    color: white;
+ }
+ .cart_2{
+    display:flex;
+    margin-left: 80px;
+    margin-top: 130px;
+ }
+    .rings_2{
+        width: 400px;
+        height: 420px;
+     }
+/*Cart 2 end*/
+
+
+section{
+    padding: 4rem 0 3rem;
+ }
+ .section_title{
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    margin-right: 20px;
+    margin-top: 50px;
+ }
+ /*Cart title end*/
+
+ /*Cart 3 start*/
+ .cart_1{
+    display:flex;
+    margin-left: 80px;
+ }
+ 
+ .product-name_3{
+    margin-left: 20px;
+    margin-top: -5px;
+ }
+ .product-price_3{
+    font-size: 30px;
+    color: #A4363B;
+    margin-left: 20px;
+    margin-top: 40px;
+ }
+ .dollars_3{
+    font-size: 30px;
+    color: #A4363B;
+    margin-left: -120px;
+    margin-top: 40px;
+ }
+ #heart_3{
+    color: #A4363B;
+    margin-left: 200px;
+    font-size: 40px;
+    height: 30px;
+    margin-top: -10px;
+ }
+ #btn_pm{
+    background: transparent;
+    height: 30px;
+    font-size: 20px;
+    border: none;
+   
+ }
+ #btn_pmi{
+    background: transparent;
+    height: 30px;
+    font-size: 20px;
+    width: 20px;
+    border: none;
+ }
+ .quantity_buttons_3{
+    margin-left: -300px;
+    margin-top: 100px;
+ }
+ .total_3{
+    background: transparent;
+    width: 30px;
+    font-size: 20px;
+    border: none;
+ }
+ .total_h_3{
+    font-size: 20px;
+    margin-top: 160px;
+    margin-left: -330px;
+ }
+ #remove_3{
+    margin-top: 370px;
+    font-size: 30px;
+    height: 50px;
+    width: 330px;
+    margin-left: -70px;
+    border-radius: 20px;
+    background-color: #4B6257;
+    color: white;
+ }
+ .cart_2{
+    display:flex;
+    margin-left: 80px;
+    margin-top: 130px;
+ }
+    .rings_2{
+        width: 400px;
+        height: 420px;
+     }
+
+/*Cart 3 end*/
+
+/*Cart 4 start*/ 
+.product-name_4{
+    margin-left: 20px;
+    margin-top: -5px;
+ }
+ .product-price_4{
+    font-size: 30px;
+    color: #A4363B;
+    margin-left: 20px;
+    margin-top: 40px;
+ }
+ .dollars_4{
+    font-size: 30px;
+    color: #A4363B;
+    margin-left: -150px;
+    margin-top: 40px;
+ }
+ #heart_4{
+    color: #A4363B;
+    margin-left: 200px;
+    font-size: 40px;
+    height: 30px;
+ }
+ #btn_pm{
+    background: transparent;
+    height: 30px;
+    font-size: 20px;
+    border: none;
+   
+ }
+ #btn_pmi{
+    background: transparent;
+    height: 30px;
+    font-size: 20px;
+    width: 20px;
+    border: none;
+ }
+ .quantity_buttons_4{
+    margin-left: -313px;
+    margin-top: 100px;
+ }
+ .total_4{
+    background: transparent;
+    width: 30px;
+    font-size: 20px;
+    border: none;
+ }
+ .total_h_4{
+    font-size: 20px;
+    margin-top: 160px;
+    margin-left: -330px;
+ }
+ #remove_4{
+    margin-top: 370px;
+    font-size: 30px;
+    height: 50px;
+    width: 330px;
+    margin-left: -70px;
+    border-radius: 20px;
+    background-color: #4B6257;
+    color: white;
+ }
+ .cart_2{
+    display:flex;
+    margin-left: 80px;
+    margin-top: 130px;
+ }
+    .rings_2{
+        width: 400px;
+        height: 420px;
+     }
+/*Cart 4 end*/
+
+ 
+
+ /*Footer start*/
+ footer{
+    margin-top: 70px;
+    margin-left: 40px;
+ }
+  .footer_ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-size: 11px;
+    margin-left: 30px;
+ }
+ .country{
+   margin-left: 6px;
+ }
+ .colors{
+    color: #3d82df;
+    display: flex;
+ }
+ .special{
+    list-style: none;
+ }
+ .country{
+    cursor: pointer;
+ }
+ .line{
+    width: 2120px;
+    margin-left: -1000px;
+ }
+ .text_footer{
+   color: #b3b3b3;
+ }
+ .all_specials{
+    margin-top: 40px;
+ } 
+ .second_p_footer{
+    list-style: none;
+    font-size: 11px;
+    color: #b3b3b3;   
+ } 
+ .third_p_footer{
+ margin-left: 310px;  
+ } 
+ .banner_ul {
+    list-style: none;
+    margin-left: 50px;
+    padding-top: 70px;
+    padding-left: 200px;
+    font-size: 31.5px;
+    color:#03b29c;
+    font-family: 'Courier New', Courier, monospace;
+ } 
+ 
+ .big_logo{
+    width: 300px;
+    margin-left: 270px;
+    padding-top: 20px;
+ } 
+ .everything{
+    margin-left: 270px;
+ }
+ #leaf{
+    margin-left: 400px;
+    color: #4B6257;
+ }
+ /*Footer end*/
